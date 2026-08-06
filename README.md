@@ -40,7 +40,6 @@ Leadership needs a centralized dashboard to quickly answer questions such as:
 
 - Total Loan Applications
 - Total Loans Funded
-- Approval Rate
 - Customer Satisfaction
 
 ---
