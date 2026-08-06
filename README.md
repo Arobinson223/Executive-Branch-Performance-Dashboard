@@ -1,25 +1,38 @@
 # Executive Branch Performance Dashboard
 
-## Overview
+## Project Overview
 
-This project demonstrates an executive-level Power BI dashboard designed to monitor branch performance through operational KPIs and interactive reporting.
+This project demonstrates an executive-level Power BI dashboard built to monitor branch performance using operational KPIs, regional reporting, and trend analysis.
+
+The dashboard was designed to simulate the type of executive reporting commonly used by financial services organizations to support operational decision-making.
 
 ---
 
 ## Business Scenario
 
-Leadership requires a centralized dashboard to monitor branch performance, identify trends, and support operational decision-making.
+Leadership needs a centralized dashboard to quickly answer questions such as:
+
+- Which branches are performing best?
+- Are loan applications increasing over time?
+- Which regions require attention?
+- What is the overall approval rate?
+- How satisfied are customers?
 
 ---
 
 ## Dashboard Features
 
-- Executive KPI Cards
-- Branch Performance Reporting
-- Regional Analysis
-- Monthly Trend Reporting
-- Interactive Slicers
-- DAX Measures
+✔ Executive KPI Cards
+
+✔ Branch Performance Analysis
+
+✔ Regional Reporting
+
+✔ Monthly Trend Analysis
+
+✔ Interactive Slicers
+
+✔ DAX Measures
 
 ---
 
@@ -44,10 +57,27 @@ Leadership requires a centralized dashboard to monitor branch performance, ident
 
 - Business Intelligence
 - Data Visualization
-- KPI Development
 - Executive Reporting
+- KPI Development
 - Business Analysis
 - Operational Reporting
+
+---
+
+## Dashboard Preview
+
+![Dashboard](dashboard-preview.png)
+
+---
+
+## Repository Contents
+
+| File | Description |
+|------|-------------|
+| Executive_Branch_Performance_Dashboard.pbix | Power BI project |
+| Branch_Performance_PowerBI_Data.xlsx | Sample dataset |
+| dashboard-preview.png | Dashboard screenshot |
+| README.md | Project documentation |
 
 ---
 
