@@ -51,12 +51,6 @@ Leadership requires a centralized dashboard to monitor branch performance, ident
 
 ---
 
-## Dashboard Preview
-
-(Add screenshot here)
-
----
-
 ## Author
 
 Angelica Robinson
