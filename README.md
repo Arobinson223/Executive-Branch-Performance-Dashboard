@@ -64,12 +64,6 @@ Leadership needs a centralized dashboard to quickly answer questions such as:
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](dashboard-preview.png)
-
----
-
 ## Repository Contents
 
 | File | Description |
