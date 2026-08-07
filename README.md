@@ -20,6 +20,14 @@ Leadership needs a centralized dashboard to quickly answer questions such as:
 
 ---
 
+## Business Problem
+
+Business leaders often rely on multiple spreadsheets and static reports to monitor branch performance. This makes it difficult to quickly identify operational trends, compare branch performance, and make timely business decisions.
+
+The objective of this project was to centralize operational data into a single interactive dashboard that provides leadership with actionable insights through real-time KPI reporting and visual analytics.
+
+---
+
 ## Dashboard Features
 
 ✔ Executive KPI Cards
@@ -38,10 +46,16 @@ Leadership needs a centralized dashboard to quickly answer questions such as:
 
 ## KPIs
 
+## Key Performance Indicators (KPIs)
+
 - Total Loan Applications
 - Total Loans Funded
-- Customer Satisfaction
-
+- Customer Satisfaction Score
+- Revenue
+- Expenses
+- Loan Approval Rate
+- Delinquency Rate
+- Employee Count
 ---
 
 ## Tools Used
@@ -61,6 +75,17 @@ Leadership needs a centralized dashboard to quickly answer questions such as:
 - Business Analysis
 - Operational Reporting
 
+---
+
+## Business Impact
+
+This dashboard demonstrates how business intelligence solutions can improve executive decision-making by:
+
+- Centralizing operational reporting
+- Improving visibility into branch performance
+- Supporting trend analysis
+- Simplifying KPI monitoring
+- Enabling data-driven business decisions
 ---
 
 ## Repository Contents
